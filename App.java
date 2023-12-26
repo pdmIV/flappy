@@ -15,7 +15,7 @@ public class App extends Application {
                 Constants.BOARD_HEIGHT
         ));
         stage.setResizable(false);
-        stage.setTitle("Connect Four");
+        stage.setTitle("Flappy Bird");
         stage.show();
     }
 
