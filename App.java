@@ -1,4 +1,4 @@
-package indy;
+package flappy;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
